@@ -2,7 +2,7 @@
 <h1 align="center">Hello! I am [ ]</h1>
 <h3 align="center">Learning a bit</h3>
 
-[![MasterHead](https://cutewallpaper.org/21/aesthetic-background-1920x1080/wg-WallpapersGeneral-Thread-6349172.jpg)](https://github.com/Mordr3d1)
+[![MasterHead](https://i.pinimg.com/736x/40/c0/d1/40c0d1777118b9bf9a4f5f6075c36730.jpg)](https://github.com/Mordr3d1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
