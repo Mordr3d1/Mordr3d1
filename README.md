@@ -27,6 +27,7 @@ role: QA
 focus: SDET
 interests: writing, aesthetics, game worlds
 state: learning
+Team: 404
 ```
 
 </div>
