@@ -59,8 +59,11 @@ Team: 404
 <h2 align="center">✦ presence ✦</h2>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/Mordr3d1">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://habr.com/ru/users/Mordr3d1/">
+    <img src="https://img.shields.io/badge/-Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/>
   </a>
 </p>
 
